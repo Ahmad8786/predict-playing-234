@@ -1,0 +1,7 @@
+sport,weather,wind,humidity,rain,sky,time,temperature,ground,play
+cricket,sunny,low,high,no,clear,afternoon,hot,dry,yes
+cricket,rainy,strong,high,yes,cloudy,evening,cold,wet,no
+cricket,cloudy,low,low,no,cloudy,afternoon,mild,dry,yes
+hockey,sunny,low,low,no,clear,evening,mild,dry,yes
+hockey,rainy,strong,high,yes,cloudy,afternoon,cold,wet,no
+hockey,cloudy,low,high,no,cloudy,evening,mild,dry,yes
